@@ -2,7 +2,7 @@
 /* This is a comment! Text here will be ignored by the browser. He He BOY. Foo is in elation. He's part of the Sun nation.  */
 body {
 	margin: 0 auto;
-}
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;}
 .homePage {
 	background: #222222;
 }
