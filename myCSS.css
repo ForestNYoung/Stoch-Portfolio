@@ -3,6 +3,9 @@
 body {
 	margin: 0 auto;
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;}
+h3 {
+        padding: 15px;
+}
 .homePage {
 	background: #D8F5BA;
 }
