@@ -6,6 +6,9 @@ body {
 h3 {
         padding: 15px;
 }
+p {
+	padding: 15px;
+}
 .homePage {
 	background: #D8F5BA;
 }
